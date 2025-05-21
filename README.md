@@ -75,6 +75,21 @@ A passionate software developer who loves learning new technologies. I'm constan
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aboshaheen5&theme=radical" alt="Profile Details" />
 </div>
 
+## 🎯 Current Focus
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aboshaheen5&theme=radical&hide_border=true" alt="Activity Graph" />
+</div>
+
+## 🌟 Featured Projects
+<div align="center">
+  <a href="https://github.com/aboshaheen5/your-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aboshaheen5&repo=your-repo&theme=radical" />
+  </a>
+  <a href="https://github.com/aboshaheen5/another-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aboshaheen5&repo=another-repo&theme=radical" />
+  </a>
+</div>
+
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aboshaheen5&color=blueviolet" alt="Profile Views" />
